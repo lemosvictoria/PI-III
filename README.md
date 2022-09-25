@@ -1,6 +1,14 @@
 # Projeto Integrador III - Centro Universitário IESB
 
-[TOC]
+<!-- TOC -->
+
+- [📖 Introdução](#-introdu%C3%A7%C3%A3o)
+- [🐦 Tweet Scrapper](#-tweet-scrapper)
+- [📈 Template Power BI](#-template-power-bi)
+- [🗃️ Dataset](#-dataset)
+- [👩🧔‍♂️👩 Desenvolvedores](#%E2%80%8D-desenvolvedores)
+
+<!-- /TOC -->
 
 ## 📖 Introdução
 Projeto acadêmico de Análise de Dados, utilizando Power BI para analisar o comportamento das eleições no Brasil através da rede social Twitter.
@@ -70,7 +78,7 @@ Acesse o [link do drive](https://drive.google.com/drive/folders/1FGMvr1yfnIG7gRT
 
 <br>
 
-## 👩🧔‍♂️👩 Desenvolvedores:
+## 👩🧔‍♂️👩 Desenvolvedores
 <p align="justify"> :octocat: <a href="https://github.com/IsabelaPinheiro"> Isabela Pinheiro - 1922130015 </a> </p>
 <p align="justify"> :octocat: <a href="https://github.com/SillasReis"> Sillas Reis - 1822130004 </a> </p>
 <p align="justify"> :octocat: <a href="https://github.com/lemosvictoria"> Victória Lemos - 1812130070 </a> </p>
