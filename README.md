@@ -12,6 +12,7 @@
 
 ## 📖 Introdução
 Projeto acadêmico de Análise de Dados, utilizando Power BI para analisar o comportamento das eleições no Brasil através da rede social Twitter.
+![video demonstrativo](./example/dashboard_video.gif)
 
 ## 🐦 Tweet Scrapper
 Script desenvolvido para buscar tweets envolvendo os principais candidatos a presidência do Brasil nas eleições de 2022. Para recuperar as postagens, o script usa o projeto [twint](https://github.com/kevctae/twint) e, para realizar alguns ajustes no retorno, utiliza a biblioteca [pandas](https://pandas.pydata.org/docs/).
